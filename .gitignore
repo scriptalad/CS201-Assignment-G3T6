@@ -1,0 +1,20 @@
+# Ignore Jupyter auto-saves
+.ipynb_checkpoints/
+
+# Python cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Virtual environments
+venv/
+env/
+.env
