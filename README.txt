@@ -36,15 +36,7 @@ Each Experiment (1, 2, 3) includes:
 *These files are required to run the notebook successfully
 
 --------------------------------------------------------------------------------------
-4. Presentation/
-Contains the PowerPoint presentation slides used for the in-class presentation of this assignment.
-Slides summarize:
-1) Experiment design
-2) Key findings from each experiment
-3) Learning points and real-world implications
-
---------------------------------------------------------------------------------------
-5. Sentiment Analysis - G3T6.ipynb
+4. Sentiment Analysis - G3T6.ipynb
 The main Jupyter Notebook containing all experiments, analysis, and conclusions:
 Experiment 1: Lookup Runtime vs Number of Reviews (N)
 Experiment 2: Lookup Runtime vs Lookup Runtime vs Prefix Overlap
