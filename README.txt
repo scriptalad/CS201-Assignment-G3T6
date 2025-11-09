@@ -67,3 +67,26 @@ AI (specifically ChatGPT) was used for the following purposes (in varying degree
 1) Idea Generation
 3) Code Generation
 3) Debugging
+
+
+===== Testing Environment =====
+This is the computer environment that ran the current sample output on the submitted jupyter notebook file
+
+=== Environment Information ===
+Python version   : 3.12.7
+Platform          : Windows 11 (10.0.22631)
+Processor         : Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+Machine           : AMD64
+Architecture      : 64bit
+
+=== Library Versions ===
+pandas            : 2.2.2
+numpy             : 1.26.4
+matplotlib        : 3.9.2
+os, re, math, csv, pickle, random, platform, statistics, time, sys : built-in
+
+=== Path Info ===
+Working Directory : C:\Users\marcl\DSA Assignment - Sentiment Analysis
+Project Root      : C:\Users\marcl
+Python Path[0]    : ..
+===============================
